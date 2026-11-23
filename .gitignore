@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.venv/
+traces.jsonl
+eval_results.csv
+day4/incident_pack/
+.ipynb_checkpoints/
